@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @MeoMunDep
 
 - You can contact me here: [Telegram](t.me/MeoMunDep)
-- Join my group: [Telegram Group](t.me/keoairdropfreene)
+- Join my group          : [Telegram Group](t.me/keoairdropfreene)
 
 👀 I will be sharing my scripts for free, but you need to read the readme.md file carefully.
 

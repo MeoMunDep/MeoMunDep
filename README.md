@@ -7,7 +7,7 @@
 
 👀 I will share my scripts for free, but you need to read the readme.md file carefully.
 
-## Donate to help me buy a new proxy 🐱
+## Donate to help me buy milk 🐱
 
 | Cryptocurrency | Address |
 |----------------|---------|

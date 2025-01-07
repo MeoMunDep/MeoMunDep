@@ -5,7 +5,7 @@
 - Youtube Channel        : [Youtube](https://www.youtube.com/@keoairdropfreene)
 - My Tiktok              : [Tiktok](https://www.tiktok.com/@meomundep)
 
-👀 I will share my scripts for free, but you need to read the readme.md file carefully.
+👀 I will share my scripts for free, but you need to read the instruction carefully.
 
 ## Donate to help me buy milk 🐱
 

@@ -3,10 +3,10 @@
 Welcome to my space! I share free scripts, tools, and resources. Please read the instructions carefully before using them.  
 
 ## 📲 Contact Me  
+- **TikTok:** [Follow Me](https://www.tiktok.com/@meomundep)  
 - **Telegram:** [MeoMunDep](https://t.me/MeoMunDep)  
 - **Telegram Group:** [Join Here](https://t.me/keoairdropfreene)  
 - **YouTube Channel:** [Subscribe](https://www.youtube.com/@keoairdropfreene)  
-- **TikTok:** [Follow Me](https://www.tiktok.com/@meomundep)  
 
 ---
 

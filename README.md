@@ -17,7 +17,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeoMunDep&layout=compact&theme=radical) 
 
 🎯 **Visitors Counter:**  
-![Profile views](https://komarev.com/ghpvc/?username=MeoMunDep&label=PROFILE+VIEWS&color=green&style=flat)  
+![Profile views](https://komarev.com/ghpvc/?username=MeoMunDep&label=PROFILE+VIEWS&color=green&style=social)  
 
 ### 💖 Support My Work  
 Your donations help me maintain and improve my scripts. Every little contribution helps me buy milk for my cats 🐱.  

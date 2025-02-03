@@ -14,9 +14,7 @@
 ## 📊 **GitHub Stats**  
 
 ![MeoMunDep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeoMunDep&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeoMunDep&layout=compact&theme=radical) 
-
-🎯 **Visitors Counter:**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeoMunDep&layout=compact&theme=radical)
 ![Profile views](https://komarev.com/ghpvc/?username=MeoMunDep&label=PROFILE+VIEWS&color=green&style=social)  
 
 ### 💖 Support My Work  

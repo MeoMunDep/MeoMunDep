@@ -1,19 +1,28 @@
 # 👋 Hi, @MeoMunDep a.k.a BlackCat here ^^
 
-Welcome to my space! I share free scripts, tools, and resources. Please read the instructions carefully before using them.  
+🚀 Welcome to my space! I share **free scripts, tools,** and **resources** to make your life easier.  
+📌 Please read the instructions carefully before using them!  
 
 ## 📲 Contact Me  
-- **TikTok:** [Follow Me](https://www.tiktok.com/@meomundep)  
-- **Telegram:** [MeoMunDep](https://t.me/MeoMunDep)  
-- **Telegram Group:** [Join Here](https://t.me/keoairdropfreene)  
-- **YouTube Channel:** [Subscribe](https://www.youtube.com/@keoairdropfreene)  
+[![YouTube](https://img.shields.io/badge/Youtube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@keoairdropfreene)    
+[![TikTok](https://img.shields.io/badge/TikTok-%40meomundep-red?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@meomundep)     
+[![Contact me](https://img.shields.io/badge/Telegram-MeoMunDep-blue?style=for-the-badge&logo=telegram)](https://t.me/MeoMunDep)     
+[![Telegram Channel](https://img.shields.io/badge/Telegram-KeoAirDropFreeNe-blue?style=for-the-badge&logo=telegram)](https://t.me/keoairdropfreene)       
 
 ---
 
-## 💖 Support My Work  
+## 📊 **GitHub Stats**  
+
+![MeoMunDep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeoMunDep&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeoMunDep&layout=compact&theme=radical) 
+
+🎯 **Visitors Counter:**  
+![Profile views](https://komarev.com/ghpvc/?username=MeoMunDep&label=PROFILE+VIEWS&color=blue&style=flat)  
+
+### 💖 Support My Work  
 Your donations help me maintain and improve my scripts. Every little contribution helps me buy milk for my cats 🐱.  
 
-### 📥 **Donate via Cryptocurrency**  
+#### 📥 **Donate via Cryptocurrency**  
 
 | Cryptocurrency | Address |
 |---------------|---------|

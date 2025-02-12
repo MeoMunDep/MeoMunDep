@@ -13,8 +13,8 @@
 
 ## 📊 **GitHub Stats**  
 
-![MeoMunDep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeoMunDep&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeoMunDep&layout=compact&theme=radical)
+![MeoMunDep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeoMunDep&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeoMunDep&layout=compact&theme=dark)
 ![Profile views](https://komarev.com/ghpvc/?username=MeoMunDep&label=PROFILE+VIEWS&color=red&style=social)  
 
 ### 💖 Support My Work  

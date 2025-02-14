@@ -3,11 +3,13 @@
 🚀 Welcome to my space! I share **free scripts, tools,** and **resources** to make your life easier.  
 📌 Please read the instructions carefully before using them!  
 
+---
+
 ## 📲 Contact Me  
 [![YouTube](https://img.shields.io/badge/Youtube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@keoairdropfreene) &nbsp;
 [![TikTok](https://img.shields.io/badge/TikTok-%40meomundep-red?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@meomundep) &nbsp;
 [![Contact me](https://img.shields.io/badge/Telegram-MeoMunDep-blue?style=for-the-badge&logo=telegram)](https://t.me/MeoMunDep) &nbsp;
-[![Telegram Channel](https://img.shields.io/badge/Telegram-KeoAirDropFreeNe-blue?style=for-the-badge&logo=telegram)](https://t.me/keoairdropfreene) &nbsp;
+[![Telegram Channel](https://img.shields.io/badge/Telegram-KeoAirDropFreeNe-blue?style=for-the-badge&logo=telegram)](https://t.me/keoairdropfreene) 
 
 ---
 
@@ -17,8 +19,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeoMunDep&layout=compact&theme=dark)
 ![Profile views](https://komarev.com/ghpvc/?username=MeoMunDep&label=PROFILE+VIEWS&color=blueviolet&style=social)  
 
+---
+
 ### 💖 Support My Work  
 Your donations help me maintain and improve my scripts. Every little contribution helps me buy milk for my cats 🐱.  
+
+---
 
 #### 📥 **Donate via Cryptocurrency**  
 

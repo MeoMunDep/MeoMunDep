@@ -1,6 +1,6 @@
 # 👋 Hi, @MeoMunDep a.k.a BlackCat here ^^
 
-🚀 Welcome to my space! I share **free scripts, tools,** and **resources** to make your life easier.  
+🚀 Welcome to my space! I share **free scripts, tools,** and **resources** to make your airdrop life easier.  
 📌 Please read the instructions carefully before using them!  
 
 ---

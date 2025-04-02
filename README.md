@@ -9,7 +9,9 @@
 [![YouTube](https://img.shields.io/badge/Youtube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@keoairdropfreene) &nbsp;
 [![TikTok](https://img.shields.io/badge/TikTok-%40meomundep-red?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@meomundep) &nbsp;
 [![Contact me](https://img.shields.io/badge/Telegram-MeoMunDep-blue?style=for-the-badge&logo=telegram)](https://t.me/MeoMunDep) &nbsp;
-[![Telegram Channel](https://img.shields.io/badge/Telegram-KeoAirDropFreeNe-blue?style=for-the-badge&logo=telegram)](https://t.me/keoairdropfreene) 
+[![Telegram Channel](https://img.shields.io/badge/Telegram-KeoAirDropFreeNe-blue?style=for-the-badge&logo=telegram)](https://t.me/keoairdropfreene) &nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%40meomundep-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/meom.undep/) 
+
 
 ---
 

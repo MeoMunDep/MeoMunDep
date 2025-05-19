@@ -28,7 +28,8 @@ Your donations help me maintain and improve my scripts. Every little contributio
 
 ---
 
-#### 📥 **Donate via Cryptocurrency**  
+<details>
+<summary><b>📥 **Donate via Cryptocurrency** (Click to see)</b></summary>
 
 | Cryptocurrency | Address |
 |---------------|---------|
@@ -43,6 +44,8 @@ Your donations help me maintain and improve my scripts. Every little contributio
 
 ⚠️ **Security Reminder:** Always double-check wallet addresses before sending any funds.
 
+</details>
+
 ---
 
-🐾 *Thank you for your support and happy scripting!* 🚀
+🐾 *Thank you for your support, i hope you earn from my scripts!* 🚀

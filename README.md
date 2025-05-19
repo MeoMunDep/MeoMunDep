@@ -29,7 +29,7 @@ Your donations help me maintain and improve my scripts. Every little contributio
 ---
 
 <details>
-<summary><b>📥 **Donate via Cryptocurrency** (Click to see)</b></summary>
+<summary><b>📥 Donate via Cryptocurrency (Click to see)</b></summary>
 
 | Cryptocurrency | Address |
 |---------------|---------|

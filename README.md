@@ -26,8 +26,6 @@
 ### 💖 Support My Work  
 Your donations help me maintain and improve my scripts. Every little contribution helps me buy milk for my cats 🐱.  
 
----
-
 <details>
 <summary><b>📥 Donate via Cryptocurrency (Click to see)</b></summary>
 

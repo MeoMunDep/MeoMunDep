@@ -57,7 +57,6 @@ Your generous donations help me keep these scripts purring, allowing me to dedic
 | :------------- | :-------------------------------------------------------- |
 | **BTC** | `31oPBVBFR8WpVdRJD3ssE3J3XFWYiLdbpq`                      |
 | **TRON** | `TE8UJ8PDtomioXgTNmV93j3zj4WpSxQPJk`                      |
-| **EVM** | `0xe81E898F01Bc49B4A567628A6876A68ab1Bc4646`              |
 | **SOL** | `9sDgCRmWSjXNKj6hGZ9iCQPTac6XP6F1RxnkztWfc4Js`            |
 | **TON** | `UQCri3sqv93a6jM87DLCjXZSIEgyqgumIH7U75p_EhWszvwy`        |
 | **SUI** | `0xe1ce1ff28b88078ad9e9d97a395307e5689a944d00aa2a899fd82c73c531b5b1` |

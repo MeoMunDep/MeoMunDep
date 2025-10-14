@@ -26,7 +26,7 @@
   <a href="https://www.instagram.com/meom.undep/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40meomundep-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://x.com/MeoMeo0009" target="_blank">
+  <a href="https://x.com/Meomundep" target="_blank">
     <img src="https://img.shields.io/badge/X-Follow%20Me-black?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
   </a>
   <a href="https://discord.gg/5aHuaGdu" target="_blank">

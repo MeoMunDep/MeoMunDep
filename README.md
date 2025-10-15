@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Telegram-MeoMunDep-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact">
   </a>
   <a href="https://t.me/keoairdropfreene" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram%20Channel-AirdropNook-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
+    <img src="https://img.shields.io/badge/Telegram%20Channel-Airdrop-script-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
   </a>
   <a href="https://www.instagram.com/meom.undep/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40meomundep-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">

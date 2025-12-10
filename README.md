@@ -77,4 +77,4 @@ Your generous donations help me keep these scripts purring, allowing me to dedic
 
 ---
 
-🐾 *Thank you for being part of the BlackCat crew! May your airdrops be plentiful and your crypto wallets ever-growing!* 🚀
+🐾 *Thank you for being part of the BlackCat crew! May your airdrops be plentiful and your crypto wallets ever-growing!* 

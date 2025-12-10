@@ -39,10 +39,18 @@
 ## 📊 **My Digital Paw Prints**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeoMunDep&show_icons=true&theme=dark&hide_border=true&card_width=490" alt="MeoMunDep's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeoMunDep&layout=compact&theme=dark&hide_border=true&card_width=490" alt="Top Languages"/>
-  <img src="https://komarev.com/ghpvc/?username=MeoMunDep&label=PROFILE+VIEWS&color=blueviolet&style=social" alt="Profile views"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MeoMunDep&theme=dark&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeoMunDep&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MeoMunDep&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MeoMunDep&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+</p>
+
 
 ---
 

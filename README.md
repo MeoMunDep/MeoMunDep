@@ -39,10 +39,6 @@
 ## 📊 **My Digital Paw Prints**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MeoMunDep&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeoMunDep&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MeoMunDep&theme=github_dark" />
 </p>

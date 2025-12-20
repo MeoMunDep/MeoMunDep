@@ -10,29 +10,8 @@
 
 ## 📲 **Catch Me If You Can!**
 
-<p align="center">
-  <a href="https://www.youtube.com/@keoairdropfreene" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://www.tiktok.com/@meomundep" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%40meomundep-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
-  <a href="https://t.me/MeoMunDep" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-MeoMunDep-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact">
-  </a>
-  <a href="https://t.me/keoairdropfreene" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram%20Channel-AirdropScript-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
-  </a>
-  <a href="https://www.instagram.com/meom.undep/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40meomundep-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://x.com/Meomundep" target="_blank">
-    <img src="https://img.shields.io/badge/X-Follow%20Me-black?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
-  </a>
-  <a href="https://discord.gg/5aHuaGdu" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Join%20Our%20Den-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Community">
-  </a>
-</p>
+All my socials: http://linktr.ee/meomundep
+DM me for inquiries business: https://t.me/meomundep
 
 ---
 

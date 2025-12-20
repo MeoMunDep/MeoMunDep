@@ -8,8 +8,6 @@
 
 ---
 
-## 📲 **Catch Me If You Can!**
-
 - All my socials: http://linktr.ee/meomundep
 
 - DM me for inquiries business: https://t.me/meomundep

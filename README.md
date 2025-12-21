@@ -1,4 +1,4 @@
-# BlackCat (@MeoMunDep)
+# 🐈‍⬛ BlackCat (@MeoMunDep)
 
 Scripts, tools, and resources focused on **airdrop automation**, **on-chain tooling**, and **crypto efficiency**.
 Everything here is built to reduce manual work and improve execution speed.
@@ -7,30 +7,30 @@ Everything here is built to reduce manual work and improve execution speed.
 
 ---
 
-## Links
+## 🔗 Links
 
-* Socials: [https://linktr.ee/meomundep](https://linktr.ee/meomundep)
-* Business / Contact: [https://t.me/meomundep](https://t.me/meomundep)
+* 🌐 Socials: [https://linktr.ee/meomundep](https://linktr.ee/meomundep)
+* 💼 Business / Contact: [https://t.me/meomundep](https://t.me/meomundep)
 
 ---
 
-Exploring my scripts here:
+## 🧭 Exploring my works here:
 
 ### Airdrop & Automation
 
-[Scripts, bots, and automation tools for airdrops and campaigns](https://github.com/stars/MeoMunDep/lists/airdrop-tool-script-bot)
+👉 [Scripts, bots, and automation tools for airdrops and campaigns](https://github.com/stars/MeoMunDep/lists/airdrop-tool-script-bot)
 
 ### Tools & Utilities
 
-[General-purpose tools that make development and crypto work easier](https://github.com/stars/MeoMunDep/lists/tools-for-an-easier-life)
+👉 [General-purpose tools that make development and crypto work easier](https://github.com/stars/MeoMunDep/lists/tools-for-an-easier-life)
 
 ### Databases & Data Resources
 
-[Database-related tools, schemas, and data handling references](https://github.com/stars/MeoMunDep/lists/data-base)
+👉 [Database-related tools, schemas, and data handling references](https://github.com/stars/MeoMunDep/lists/data-base)
 
 ### For Sale scripts
 
-[Contact me to buy those scripts](https://github.com/stars/MeoMunDep/lists/not-public)
+👉 [Contact me to buy those scripts](https://github.com/stars/MeoMunDep/lists/not-public)
 
 ---
 

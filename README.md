@@ -34,7 +34,7 @@ Everything here is built to reduce manual work and improve execution speed.
 
 ---
 
-## Support
+## ☕ Support
 
 If my work helps you save time or earn more efficiently, you can support development here.
 
